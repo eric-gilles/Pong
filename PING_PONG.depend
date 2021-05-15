@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1387233715 source:/media/Doc/Mes Documents/Dropbox/Info_II1/2013-2014/Projet_PingPong/Ping_Pong_1/PING_PONG_1.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<SDL/SDL.h>
+	"Entete_Ping_Pong_1.h"
+
+1387233067 /media/Doc/Mes Documents/Dropbox/Info_II1/2013-2014/Projet_PingPong/Ping_Pong_1/Entete_Ping_Pong_1.h
+
+1388794305 source:/media/Doc/Mes Documents/Dropbox/Info_II1/2013-2014/Projet_PingPong/Ping_Pong_2/PING_PONG_2.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"Entete_Ping_Pong_2.h"
+
+1388846448 /media/Doc/Mes Documents/Dropbox/Info_II1/2013-2014/Projet_PingPong/Ping_Pong_2/Entete_Ping_Pong_2.h
+
+1388846489 source:/media/Doc/Mes Documents/Dropbox/Info_II1/2013-2014/Projet_PingPong/Ping_Pong_2/PING_PONG_2_corr.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"Entete_Ping_Pong_2.h"
+
